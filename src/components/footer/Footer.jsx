@@ -19,21 +19,21 @@ const Footer = () => {
           width={15}
           height={15}
           className={styles.icon}
-          alt="Anton Dev"
+          alt="Anton Dev Instagramm Account"
         />
         <Image
           src="/3.png"
           width={15}
           height={15}
           className={styles.icon}
-          alt="Anton Dev"
+          alt="Anton Dev Twitter Account"
         />
         <Image
           src="/4.png"
           width={15}
           height={15}
           className={styles.icon}
-          alt="Anton Dev"
+          alt="Anton Dev Youtube Account"
         />
       </div>
     </div>
